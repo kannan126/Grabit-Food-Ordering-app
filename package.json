@@ -1,0 +1,20 @@
+{
+  "name": "hungerhook",
+  "version": "1.0.0",
+  "description": "**Components Used**",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}
